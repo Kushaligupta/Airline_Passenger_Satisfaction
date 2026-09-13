@@ -179,4 +179,4 @@ Python 3 · Pandas · NumPy · Matplotlib · Seaborn
 
 ## Author
 
-**Arushi Khanna** — [GitHub](https://github.com/Arushi1104)
+**Kushali Gupta** — [GitHub](https://github.com/Arushi1104)
